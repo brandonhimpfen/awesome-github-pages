@@ -43,6 +43,7 @@ GitHub Pages is a popular option for developers, educators, and open-source cont
 - [Jekyll Themes](https://jekyllthemes.io/) – Collection of ready-to-use themes.
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) – Popular Jekyll theme for GitHub Pages.
 - [Just the Docs](https://just-the-docs.github.io/just-the-docs/) – Jekyll theme for project documentation.
+- [GitHub Pages Storefront Starter](https://github.com/duct-tape2/github-pages-storefront-starter) – Static storefront template with checkout links, delivery notes, and a validation checklist.
 - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) – Feature-rich theme focused on blogging.
 - [Beautiful Jekyll](https://beautifuljekyll.com/) – Easy-to-use starter template.
 
@@ -71,7 +72,7 @@ GitHub Pages is a popular option for developers, educators, and open-source cont
 
 - [academicpages](https://github.com/academicpages/academicpages.github.io) – Jekyll template for academic personal websites.
 - [GitHub’s own blog](https://github.blog/) – Uses GitHub Pages and Jekyll.
-- [Jekyll Theme Catalog](https://pages-themes.github.io/) – Official themes by GitHub.
+- [Jekyll Theme Catalog](https://pages.github.com/themes/) – Official themes by GitHub.
 
 ## Alternatives and Extensions
 
