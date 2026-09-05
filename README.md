@@ -1,4 +1,4 @@
-# Awesome GitHub Pages [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome GitHub Pages [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -81,9 +81,9 @@ GitHub Pages is a popular option for developers, educators, and open-source cont
 
 ## Related Awesome Lists
 
-- [Awesome Static Website Services](https://github.com/awesomelistsio/awesome-static-website-services)
-- [Awesome Jekyll](https://github.com/awesomelistsio/awesome-jekyll)
-- [Awesome JAMstack](https://github.com/awesomelistsio/awesome-jamstack)
+- [Awesome Static Website Services](https://github.com/brandonhimpfen/awesome-static-website-services)
+- [Awesome Jekyll](https://github.com/brandonhimpfen/awesome-jekyll)
+- [Awesome JAMstack](https://github.com/brandonhimpfen/awesome-jamstack)
   
 ## Contribute
 
